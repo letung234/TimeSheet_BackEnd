@@ -99,4 +99,5 @@ export const ERROR_MESSAGES = {
   POSITION_ALREADY_EXISTS: 'Position already exists',
   POSITION_NAME_ALREADY_EXISTS: 'Position name already exists',
   POSITION_IN_USE: 'Position is in use and cannot be deleted',
+  REQUEST_NOT_FOUND: 'Request not found',
 } as const;
